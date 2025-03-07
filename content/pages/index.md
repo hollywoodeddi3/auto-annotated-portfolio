@@ -40,7 +40,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Screenshot 2025-03-07 at 12.47.07 PM.png
+      url: /images/BANNER.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
