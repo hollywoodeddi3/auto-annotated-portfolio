@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     backgroundSize: full
     title: 'I’m a film-maker, actor,  and a AI researcher.'
     subtitle: >-
